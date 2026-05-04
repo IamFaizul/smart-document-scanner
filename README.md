@@ -1,4 +1,4 @@
-# Smart Document Scanner Pro + OCR
+# ScanCraft AI: Smart Document Scanner with OCR
 
 A Computer Vision project that scans document images, detects document boundaries, corrects perspective, enhances readability, extracts text using OCR, and exports results in multiple formats.
 
