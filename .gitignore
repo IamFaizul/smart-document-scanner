@@ -1,0 +1,10 @@
+.venv/
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+*.zip
+*.pdf
+*.png
+*.jpg
+*.jpeg
